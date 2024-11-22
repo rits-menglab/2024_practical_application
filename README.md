@@ -130,6 +130,12 @@ imgs[0]
 
 [こちらのリンクから](https://colab.research.google.com/drive/1sBGFQpqCeAVJ54Pt7B_o88QwT9c-a5m3?usp=sharing)
 
+### 軽量化
+
+[こちら](https://colab.research.google.com/drive/1cCZwh0MB8txkFgIlFifi5vQm1Tk9F7gS)
+
+##研究体験
+
 ### 畳み込みニューラルネットワーク
 
 [こちらのリンクから](https://colab.research.google.com/drive/1Sgi3Ic3vMp30au0rNjh96KrZP-pFxNHA?usp=sharing)
@@ -138,6 +144,4 @@ imgs[0]
 
 [こちら](https://colab.research.google.com/drive/1pW1VZmzsojO4F1jlX7K_9InAy1E8Tdz0?usp=sharing)
 
-### 軽量化
 
-[こちら](https://colab.research.google.com/drive/1cCZwh0MB8txkFgIlFifi5vQm1Tk9F7gS)
