@@ -7,11 +7,11 @@
 ### 画像認識
 GitHubのレポジトリをクローンする
 ```python
-!git clone https://github.com/ri0097fx/2023.git
+git clone https://github.com/rits-menglab/2024_practical_application
 ```
 ディレクトリを移動する
 ```python
-cd 2023
+cd 2024
 ```
 ImageNetのクラス情報(JSON)をダウンロード
 ```python
