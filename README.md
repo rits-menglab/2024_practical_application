@@ -8,35 +8,6 @@
 
 <!-- [解答](https://colab.research.google.com/drive/1i3UjtGQZSJikDa6v4PpfFYrPkyISHC_1?invite=CI7liv0J) -->
 
-### 画像生成１
-
-[こちらのリンクから](https://colab.research.google.com/drive/1dhKHkm3qHYfWKjmUERNgmRvJxKwXS4lM?usp=sharing)
-
-## 基礎実習3
-
-### パーセプトロン
-
-[こちらのリンクから](https://colab.research.google.com/drive/188BM4B5aAk1t2le7w-uPpQy_ORlTwES-?usp=sharing)
-
-### 画像生成２
-
-[こちらのリンクから](https://colab.research.google.com/drive/1sBGFQpqCeAVJ54Pt7B_o88QwT9c-a5m3?usp=sharing)
-
-### 軽量化
-
-[こちら](https://colab.research.google.com/drive/1cCZwh0MB8txkFgIlFifi5vQm1Tk9F7gS)
-
-## 研究体験1
-
-### 畳み込みニューラルネットワーク
-
-[こちらのリンクから](https://colab.research.google.com/drive/1Sgi3Ic3vMp30au0rNjh96KrZP-pFxNHA?usp=sharing)
-
-### 手書き文字認識
-
-[こちら](https://colab.research.google.com/drive/1pW1VZmzsojO4F1jlX7K_9InAy1E8Tdz0?usp=sharing)
-
-
 ### 画像認識
 
 GitHubのレポジトリをクローンする
@@ -146,3 +117,33 @@ for img in paths:
     imgs.append(Image.open(img))
 imgs[0]
 ```
+
+### 画像生成１
+
+[こちらのリンクから](https://colab.research.google.com/drive/1dhKHkm3qHYfWKjmUERNgmRvJxKwXS4lM?usp=sharing)
+
+## 基礎実習3
+
+### パーセプトロン
+
+[こちらのリンクから](https://colab.research.google.com/drive/188BM4B5aAk1t2le7w-uPpQy_ORlTwES-?usp=sharing)
+
+### 画像生成２
+
+[こちらのリンクから](https://colab.research.google.com/drive/1sBGFQpqCeAVJ54Pt7B_o88QwT9c-a5m3?usp=sharing)
+
+### 軽量化
+
+[こちら](https://colab.research.google.com/drive/1cCZwh0MB8txkFgIlFifi5vQm1Tk9F7gS)
+
+## 研究体験1
+
+### 畳み込みニューラルネットワーク
+
+[こちらのリンクから](https://colab.research.google.com/drive/1Sgi3Ic3vMp30au0rNjh96KrZP-pFxNHA?usp=sharing)
+
+### 手書き文字認識
+
+[こちら](https://colab.research.google.com/drive/1pW1VZmzsojO4F1jlX7K_9InAy1E8Tdz0?usp=sharing)
+
+
