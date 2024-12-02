@@ -104,7 +104,7 @@ imgs[0]
 学習済みの物体検出モデルを用いて、画像を推論
 
 ```bash
-python3 detect.py
+!python3 detect.py
 ```
 
 結果の画像を表示  
