@@ -19,7 +19,7 @@ GitHubのレポジトリをクローンする
 ディレクトリを移動する
 
 ```bash
-cd 2024
+cd 2024_practical_application
 ```
 
 ImageNetのクラス情報(JSON)をダウンロード
