@@ -85,7 +85,7 @@ cd yolov5
 必要なパッケージをインストール
 
 ```bash
-pip install -r requirements.txt
+!pip install -r requirements.txt
 ```
 
 サンプル画像の確認
