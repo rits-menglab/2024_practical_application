@@ -25,7 +25,7 @@ cd 2024
 ImageNetのクラス情報(JSON)をダウンロード
 
 ```bash
-wget https://s3.amazonaws.com/deep-learning-models/image-models/imagenet_class_index.json
+!wget https://s3.amazonaws.com/deep-learning-models/image-models/imagenet_class_index.json
 ```
 
 JSONファイルを読み込む
@@ -73,7 +73,7 @@ for i in predict:
 GitHubのレポジトリをクローンする
 
 ```bash
-git clone https://github.com/ultralytics/yolov5
+!git clone https://github.com/ultralytics/yolov5
 ```
 
 ディレクトリを移動する
