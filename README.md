@@ -13,7 +13,7 @@
 GitHubのレポジトリをクローンする
 
 ```bash
-git clone https://github.com/rits-menglab/2024_practical_application
+!git clone https://github.com/rits-menglab/2024_practical_application
 ```
 
 ディレクトリを移動する
