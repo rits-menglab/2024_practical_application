@@ -118,12 +118,13 @@ for img in paths:
 imgs[0]
 ```
 
+## 基礎実習2
 ### 画像生成１
 
 [こちらのリンクから](https://colab.research.google.com/drive/1dhKHkm3qHYfWKjmUERNgmRvJxKwXS4lM?usp=sharing)
 
-## 基礎実習2
 ### 自然言語処理
+
 [こちらのリンクから](https://colab.research.google.com/drive/1wazNe_v5AnYnSAeYV4dfGz6XxH2oWgXz?usp=sharing)
 
 ## 基礎実習3
