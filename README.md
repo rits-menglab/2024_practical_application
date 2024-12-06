@@ -122,6 +122,10 @@ imgs[0]
 
 [こちらのリンクから](https://colab.research.google.com/drive/1dhKHkm3qHYfWKjmUERNgmRvJxKwXS4lM?usp=sharing)
 
+## 基礎実習2
+### 自然言語処理
+[こちらのリンクから](https://colab.research.google.com/drive/1wazNe_v5AnYnSAeYV4dfGz6XxH2oWgXz?usp=sharing)
+
 ## 基礎実習3
 
 ### パーセプトロン
