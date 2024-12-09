@@ -127,6 +127,9 @@ imgs[0]
 
 [こちらのリンクから](https://colab.research.google.com/drive/1wazNe_v5AnYnSAeYV4dfGz6XxH2oWgXz?usp=sharing)
 
+### 画像分割
+[こちらのリンクから](https://colab.research.google.com/drive/1D6InfWOwsKNsE9jL9oJC6vaUPR-Ovd_p?usp=sharing)
+
 ## 基礎実習3
 
 ### パーセプトロン
