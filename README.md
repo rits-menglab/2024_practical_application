@@ -130,15 +130,19 @@ imgs[0]
 ### 画像分割
 [こちらのリンクから](https://colab.research.google.com/drive/1D6InfWOwsKNsE9jL9oJC6vaUPR-Ovd_p?usp=sharing)
 
-## 基礎実習3
-
 ### パーセプトロン
 
 [こちらのリンクから](https://colab.research.google.com/drive/188BM4B5aAk1t2le7w-uPpQy_ORlTwES-?usp=sharing)
 
+## 基礎実習3
+
 ### 画像生成２
 
 [こちらのリンクから](https://colab.research.google.com/drive/1sBGFQpqCeAVJ54Pt7B_o88QwT9c-a5m3?usp=sharing)
+
+### SegGPT
+
+[こちらのリンクから](https://colab.research.google.com/drive/1ajqgEDAT19vBg2Wzyd18PLndheEJ4CG5?usp=sharing)
 
 ### 軽量化
 
