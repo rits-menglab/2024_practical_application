@@ -159,4 +159,7 @@ imgs[0]
 
 [こちら](https://colab.research.google.com/drive/1pW1VZmzsojO4F1jlX7K_9InAy1E8Tdz0?usp=sharing)
 
+## 研究体験2
 
+### 異常検知
+[こちら](https://colab.research.google.com/drive/1AmZH6W5Hcefy-6eb9IFY-8GqDDFTHeL_?usp=sharing)
